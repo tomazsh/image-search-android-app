@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.nedeljko.imagesearch.app.MainActivity" >
+
+    <item android:id="@+id/action_search"
+        android:title="@string/action_search_images"
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="always"
+        android:actionViewClass="android.widget.SearchView" />
+
+    <item android:id="@+id/action_search_options"
+        android:title="@string/search_options"
+        android:icon="@android:drawable/ic_menu_preferences"
+        android:showAsAction="always" />
+
+</menu>

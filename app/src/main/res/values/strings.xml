@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Image Search</string>
+    <string name="action_search_images">Search images</string>
+    <string name="search_options">Search Options</string>
+    <string name="no_results_found">No results found</string>
+    <string name="site_search">Site Search</string>
+
+    <string name="any_size">Any Image Size</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+    <string name="xlarge">Extra Large</string>
+    <string name="xxlarge">Extra Extra Large</string>
+    <string name="huge">Huge</string>
+
+    <string name="any_color">Any Image Color</string>
+    <string name="black">Black</string>
+    <string name="blue">Blue</string>
+    <string name="brown">Brown</string>
+    <string name="gray">Gray</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="pink">Pink</string>
+    <string name="purple">Purple</string>
+    <string name="red">Red</string>
+    <string name="teal">Teal</string>
+    <string name="white">White</string>
+    <string name="yellow">Yellow</string>
+
+    <string name="any_type">Any Image Type</string>
+    <string name="face">Face</string>
+    <string name="photo">Photo</string>
+    <string name="clipart">Clipart</string>
+    <string name="lineart">Lineart</string>
+</resources>
